@@ -1,0 +1,12 @@
+gbdk-2020/
+
+*.gb
+*.ihx
+*.lk
+*.map
+*.noi
+*.asm
+*.lst
+*.rel
+*.sym
+*.lnk
