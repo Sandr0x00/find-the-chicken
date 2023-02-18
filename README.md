@@ -1,5 +1,7 @@
 # Find the chicken
 
+![](find-the-chicken.png)
+
 Find the chicken game source for [hxp CTF 2020](https://2020.ctf.link).
 
 ## Links
